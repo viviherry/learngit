@@ -5,8 +5,4 @@ Git tracks changes.
 Echo really foolish.
 My stupid boss still prefers SVN.
 Go out of work.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> featurel
