@@ -8,8 +8,5 @@ Go out of work.
 Creating a new branch is quick and simple.
 Creating a new branch is quick.
 Add new commit
-<<<<<<< Updated upstream
 Git is a free software.
-=======
 Add stage status.
->>>>>>> Stashed changes
